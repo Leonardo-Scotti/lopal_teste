@@ -1,4 +1,4 @@
-Programa Um.
+Programa Um
 
 Linha 1 do programa
 
