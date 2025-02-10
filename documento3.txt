@@ -3,3 +3,5 @@ Programa três
 Teste de Git!
 
 Documento alterado!
+
+.
